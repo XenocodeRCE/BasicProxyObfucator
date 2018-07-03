@@ -1,0 +1,9 @@
+C:\Users\xenocode\source\repos\ProxyCalld\ProxyCalld\bin\Debug\ProxyCalld.exe.config
+C:\Users\xenocode\source\repos\ProxyCalld\ProxyCalld\bin\Debug\ProxyCalld.exe
+C:\Users\xenocode\source\repos\ProxyCalld\ProxyCalld\bin\Debug\ProxyCalld.pdb
+C:\Users\xenocode\source\repos\ProxyCalld\ProxyCalld\bin\Debug\dnlib.dll
+C:\Users\xenocode\source\repos\ProxyCalld\ProxyCalld\obj\Debug\ProxyCalld.csprojAssemblyReference.cache
+C:\Users\xenocode\source\repos\ProxyCalld\ProxyCalld\obj\Debug\ProxyCalld.csproj.CoreCompileInputs.cache
+C:\Users\xenocode\source\repos\ProxyCalld\ProxyCalld\obj\Debug\ProxyCalld.csproj.CopyComplete
+C:\Users\xenocode\source\repos\ProxyCalld\ProxyCalld\obj\Debug\ProxyCalld.exe
+C:\Users\xenocode\source\repos\ProxyCalld\ProxyCalld\obj\Debug\ProxyCalld.pdb

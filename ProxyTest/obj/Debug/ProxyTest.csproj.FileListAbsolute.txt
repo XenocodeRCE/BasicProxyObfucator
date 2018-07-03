@@ -1,0 +1,6 @@
+C:\Users\xenocode\source\repos\ProxyCalld\ProxyTest\bin\Debug\ProxyTest.exe
+C:\Users\xenocode\source\repos\ProxyCalld\ProxyTest\bin\Debug\ProxyTest.pdb
+C:\Users\xenocode\source\repos\ProxyCalld\ProxyTest\obj\Debug\ProxyTest.csprojAssemblyReference.cache
+C:\Users\xenocode\source\repos\ProxyCalld\ProxyTest\obj\Debug\ProxyTest.csproj.CoreCompileInputs.cache
+C:\Users\xenocode\source\repos\ProxyCalld\ProxyTest\obj\Debug\ProxyTest.exe
+C:\Users\xenocode\source\repos\ProxyCalld\ProxyTest\obj\Debug\ProxyTest.pdb
